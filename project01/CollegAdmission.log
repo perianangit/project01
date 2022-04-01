@@ -1,0 +1,10 @@
+2022-03-30 15:55:21.850 [main] INFO  DAO.ApplicantsDetailsDisplayDAO - Welcome to College Admission Site....
+2022-03-30 15:55:25.705 [main] INFO  project01.Register - Enter your name
+2022-03-30 15:55:53.694 [main] INFO  project01.Register - enter 'user' or 'admin' 
+2022-03-30 15:59:25.202 [main] INFO  project01.Register - Enter your mobile number 
+2022-03-30 15:59:34.928 [main] INFO  project01.Register - enter your age
+2022-03-30 15:59:37.692 [main] INFO  project01.Register - Enter the year of study(mention it as 1 or 2 or 3 or 4)
+2022-03-30 15:59:40.710 [main] INFO  project01.Register - Enter your 12th mark percentage (EX:88.80)
+2022-03-30 15:59:44.435 [main] INFO  project01.Register - enter your E-mail ID
+2022-03-30 15:59:51.870 [main] INFO  project01.Register - enter your password
+2022-03-30 15:59:57.226 [main] WARN  project01.Register - error..!!enter only numeric values
